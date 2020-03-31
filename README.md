@@ -5,7 +5,7 @@ Lifetrakr is a bootstrap based responsive & Free app landing page template. The 
 The Lifetrackr Free app landing HTML template is one of the most lightweight and fast loading HTML5/CSS3 templates around the marketplace. Bootstrap  framework powers the HTML template, perfectly passed W3C validation. The interesting part of it, every line of its codebase is well-commented and well-organized, allows to implement programming logic easily. Forget about confusion and save valuable time.
 ## Preview
 
-[![Lifetrackr Preview](https://themefisher.com/wp-content/uploads/edd/2019/04/Life-Trakr.jpg)]
+![Lifetrackr Preview](https://themefisher.com/wp-content/uploads/edd/2019/04/Life-Trakr.jpg)
 
 
 
